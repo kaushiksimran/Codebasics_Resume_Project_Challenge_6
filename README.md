@@ -22,3 +22,5 @@ This repository contains the following:
 2) Metadata.txt - contains all the information about the datasets and the survey questions.
 3) Datasets - dim_cities.csv, dim_repondents.csv and fact_survey_responses.csv.
 4) Microsoft Presentation
+
+Link of the video presentation: https://www.linkedin.com/feed/update/urn:li:activity:7082037444530847744/
